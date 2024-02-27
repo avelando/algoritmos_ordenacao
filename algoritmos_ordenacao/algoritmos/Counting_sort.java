@@ -1,4 +1,4 @@
-package ordenacao_java.algoritmos;
+package algoritmos_ordenacao.algoritmos;
 
 public class Counting_sort {
     public static void countingSort(int[] arr) {

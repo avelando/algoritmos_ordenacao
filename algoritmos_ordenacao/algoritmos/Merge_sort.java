@@ -1,4 +1,4 @@
-package ordenacao_java.algoritmos;
+package algoritmos_ordenacao.algoritmos;
 
 public class Merge_sort {
     public static void mergeSort(int[] arr) {

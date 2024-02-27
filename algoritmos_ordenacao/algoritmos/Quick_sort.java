@@ -1,4 +1,4 @@
-package ordenacao_java.algoritmos;
+package algoritmos_ordenacao.algoritmos;
 
 public class Quick_sort {
     public static void quickSort(int[] arr) {

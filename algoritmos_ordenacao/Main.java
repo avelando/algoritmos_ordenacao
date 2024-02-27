@@ -1,12 +1,12 @@
-package ordenacao_java;
+package algoritmos_ordenacao;
 
-import ordenacao_java.algoritmos.Bubble_sort;
-import ordenacao_java.algoritmos.Counting_sort;
-import ordenacao_java.algoritmos.Insertion_sort;
-import ordenacao_java.algoritmos.Merge_sort;
-import ordenacao_java.algoritmos.Quick_sort;
-import ordenacao_java.algoritmos.Selection_sort;
-import ordenacao_java.vetores.Vetores;
+import algoritmos_ordenacao.algoritmos.Bubble_sort;
+import algoritmos_ordenacao.algoritmos.Counting_sort;
+import algoritmos_ordenacao.algoritmos.Insertion_sort;
+import algoritmos_ordenacao.algoritmos.Merge_sort;
+import algoritmos_ordenacao.algoritmos.Quick_sort;
+import algoritmos_ordenacao.algoritmos.Selection_sort;
+import algoritmos_ordenacao.vetores.Vetores;
 
 public class Main {
     public static void main(String[] args) {

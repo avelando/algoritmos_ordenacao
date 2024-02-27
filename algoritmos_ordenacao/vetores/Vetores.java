@@ -1,4 +1,4 @@
-package ordenacao_java.vetores;
+package algoritmos_ordenacao.vetores;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package ordenacao_java.algoritmos;
+package algoritmos_ordenacao.algoritmos;
 
 public class Bubble_sort {
     public static void bubbleSort(int[] arr) {
