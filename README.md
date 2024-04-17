@@ -25,5 +25,5 @@
     O relatório 2 fala sobre o Bucket Sort aplicados nos tipos de algoritmos anteriores e nos mesmos tamanhos de vetores. Enquanto o relatório 3 analisa a velocidade do algoritmo Quick Sorte em diferentes estratégias.
   </h5>
 
-  <h6>Os relatórios estão disponíveis nos links armazenados nos "relatório aqui" de seu respectivo tema. Lá, você pode ter acesso a mais informações sobre os códigos.</h6>
+  <h6>Os relatórios estão disponíveis nos links armazenados nos "relatório aqui" de seu respectivo tópico. Lá, você pode ter acesso a mais informações sobre os códigos.</h6>
 </div>
